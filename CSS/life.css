@@ -1,0 +1,20 @@
+:root {
+    --color-dark:#333;
+    --color-light:#fff;
+    --color-light-1:rgba(255,255,255,.8);
+   --bg-header:#161616;
+   --bg-pink:#FA5480;
+   --color-warning:#F9A62B;
+   --color-danger:#F2272F;
+   --color-primary:#4390F8;
+   --color-success:#38C378;
+   --color-red:#fa1939;
+   --font-size:80px;
+   --default-trasition:all 0.2s linear;
+   --linear-gradient-overlay:linear-gradient(to bottom,rgba(0,0,0,.5) 0,rgba(0,0,0,.8) 60%,#000 100%);
+   --bg-nav-active: 1px 1px 1px rgba(0,0,0,.4);
+--default-font-family:'Koulen', sans-serif,Helvetica,sans-serif;
+--second-font-family:'Battambang', system-ui;
+--default--scale-in: scale(0.98);
+
+}
